@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jabir Mustahid
-- 🏫 2B Bachelor of Mathematics student at The University of Waterloo
+- 🏫 #B Bachelor of Mathematics student at The University of Waterloo
 - 📚 Majoring in Computational Mathematics 
 - 👀 I’m interested Web Development, Deep Learning and Computer Vision
-- 📫 You can reach me at <a href='https://www.linkedin.com/in/jabir-mustahid-3b0aa6235/'>LinkedIn</a>
+- 📫 You can reach me at <a href='https://www.linkedin.com/in/jabir-mustahid/'>LinkedIn</a>
 
 <!---
 FutureWiz2002/FutureWiz2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
